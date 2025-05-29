@@ -1,0 +1,147 @@
+body {
+    background-color: #f9f9f9;
+}
+.container-top {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-height: 56px;
+        
+}
+
+#img-left {
+    width: 146px;
+    height: 24px;
+    margin: 15px 0 20px 25px;
+        
+}
+
+#img-center {
+    width: 404px;
+    height: 40px;
+
+}
+
+#img-right {
+    width: 130px;
+    height: 34px;
+    margin: 8px 25px 0 10px
+}
+
+
+.container-main {
+    width: 1450px;
+    height: 1000px;
+    margin: 30px 20px 20px 60px;
+}
+
+.main-video p {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#views {
+    font-weight: 600;
+    font-size: 14px;
+    width: 900px;
+    margin-bottom: 15px;
+    width: 600px;
+    height: 16px;
+    
+}
+
+.video-actions {
+    width: 902px;
+    height: 42px;
+    margin: 20px 0 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#channel-infos {
+    width: 160px;
+    height: 42px;
+}
+
+#subscribe-button {
+    width: 159px;
+    height: 40px;
+}
+
+#like {
+    width: 63px;
+    height: 24px;
+}
+
+#dislike {
+    width: 100px;
+    height: 24px;
+}
+
+#share {
+    width: 115px;
+    height: 24px;
+}
+
+#download {
+    width: 95px;
+    height: 24px;
+}
+
+#video-description {
+    width: 510px;
+    height: 64px;
+    color: #515151;
+    font-size: 14px;
+}
+
+.sidebar {
+    width: 160px;
+    height: 940px;
+    position: relative;
+    left: 980px;
+    bottom: 744px;
+
+}
+
+.sidebar img {
+    padding: 5px;
+}
+
+.video1-infos {
+    width: 196px;
+    height: 20px;
+    position: absolute;
+    top: 1px;
+    right: -215px;
+
+}
+
+.video1-infos #thumb-title {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    
+}
+
+.video1-infos #thumb-chanel {
+    font-size: 12px;
+    font-weight: 400;
+    color: #515151;
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+}
+
+.video1-infos #thumb-views {
+    font-size: 12px;
+    font-weight: 400;
+    color: #515151;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+
